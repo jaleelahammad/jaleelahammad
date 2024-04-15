@@ -34,6 +34,8 @@ public class Checkbox {
 		System.out.println(driver.findElements(By.cssSelector("input[type='checkbox']")).size());
 		Assert.assertEquals(driver.findElements(By.cssSelector("input[type='checkbox']")).size(), 6);
 		
+		driver.close(); //Added new line by Resource-2 git test
+		
 	}
 
 }

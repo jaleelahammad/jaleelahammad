@@ -34,7 +34,7 @@ public class Dropdown {
 		dropdown.selectByIndex(2);
 		System.out.println(dropdown.getFirstSelectedOption().getText()); //To print the selected option
 		
-		//Radio button
+		//removed a comment R2 git test
 		
 	
 	
