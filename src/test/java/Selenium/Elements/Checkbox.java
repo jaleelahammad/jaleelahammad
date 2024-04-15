@@ -36,6 +36,7 @@ public class Checkbox {
 		
 		driver.close(); //Added new line by Resource-2 git test
 		//Added comment from branch developR1
+		//Added devR2 comment
 		
 	}
 
